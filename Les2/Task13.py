@@ -9,6 +9,6 @@ for i in range(days):
         tempthawDays += 1
     elif tempthawDays > thawDays:
         thawDays = tempthawDays
-        tempthawDays = 0
+    tempthawDays = 0
 
 print(f"самая длинная оттепель длилась {thawDays} дней")
