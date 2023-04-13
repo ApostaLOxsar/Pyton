@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>f84ca4a3-bc53-448a-9161-1084250a56cc</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Les2HW.py</StartupFile>
+    <StartupFile>Task10.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,10 +21,9 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Les2HW.py" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Task10.py" />
+    <Compile Include="Task10.py" />
+    <Compile Include="Task12.py" />
+    <Compile Include="Task14.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
