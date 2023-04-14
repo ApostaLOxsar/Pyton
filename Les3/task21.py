@@ -15,6 +15,5 @@ for key in arr:
 
 arr = arrTemp.copy()
 
-for printTemp in arr.values(): 
-	print(printTemp)
+print(' '.join(arr.values()))
 
