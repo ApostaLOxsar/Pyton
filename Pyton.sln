@@ -17,6 +17,12 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Les3_1", "Les3_1\Les3_1.pyp
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Les3HW", "Les3HW\Les3HW.pyproj", "{75BFA24F-4755-47FA-A66A-91B80C4BB529}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Les4", "Les4\Les4.pyproj", "{12856671-B93C-4ABA-AC7B-4A0D334D59CB}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "les5", "les5\les5.pyproj", "{BD8560E7-FCF7-4E08-A84C-79FD64DE9DF0}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Les4HW", "Les4HW\Les4HW.pyproj", "{6D6B4474-4B32-4DF5-93FE-F45384DB7573}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -37,6 +43,12 @@ Global
 		{71C5A56F-7AB5-4DB6-9C5F-ED655062D4FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75BFA24F-4755-47FA-A66A-91B80C4BB529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{75BFA24F-4755-47FA-A66A-91B80C4BB529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12856671-B93C-4ABA-AC7B-4A0D334D59CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12856671-B93C-4ABA-AC7B-4A0D334D59CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD8560E7-FCF7-4E08-A84C-79FD64DE9DF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD8560E7-FCF7-4E08-A84C-79FD64DE9DF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6B4474-4B32-4DF5-93FE-F45384DB7573}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6B4474-4B32-4DF5-93FE-F45384DB7573}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
